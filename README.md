@@ -5,8 +5,8 @@ A full-stack building management and payments system. Users can easily track and
 ![.NET](https://img.shields.io/badge/.NET-6.0-blue)
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-3.42.0-orange)
-![License](https://img.shields.io/github/license/<your-username>/building-management-and-payments)
-![Stars](https://img.shields.io/github/stars/<your-username>/building-management-and-payments?style=social)
+![License](https://img.shields.io/github/license/Asyayla/building-management-and-payments)
+![Stars](https://img.shields.io/github/stars/Asyayla/building-management-and-payments?style=social)
 
 ---
 
@@ -81,7 +81,7 @@ RESTful API with full CRUD operations:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/building-management-and-payments.git
+git clone https://github.com/Asyayla/building-management-and-payments.git
 cd building-management-and-payments
 
 # 2. Backend setup and run
@@ -94,3 +94,10 @@ cd frontend
 npm install
 npm start
 # Frontend will run at: http://localhost:3001
+
+---
+
+## 🔮 Future Plans
+- Add user authentication and login system  
+- Dashboard and statistics  
+- Mobile responsive design
