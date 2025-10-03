@@ -1,4 +1,3 @@
-
 # 🏢 Building Management and Payments
 
 A full-stack building management and payments system. Users can easily track and manage apartment information and payments.
