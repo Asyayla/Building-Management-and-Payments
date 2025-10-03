@@ -1,10 +1,11 @@
+şu anda bu şekilde
 # 🏢 Building Management and Payments
 
 A full-stack building management and payments system. Users can easily track and manage apartment information and payments.
 
-![.NET](https://img.shields.io/badge/.NET-6.0-blue)
-![React](https://img.shields.io/badge/React-18.2.0-blue)
-![SQLite](https://img.shields.io/badge/SQLite-3.42.0-orange)
+![.NET](https://img.shields.io/badge/.NET-8.0.413-blue)
+![React](https://img.shields.io/badge/React-19.1.1-blue)
+![SQLite](https://img.shields.io/badge/SQLite-3.43.2-orange)
 
 ---
 
@@ -69,9 +70,9 @@ RESTful API with full CRUD operations:
 
 ## 🛠 Technologies
 
-- Backend: .NET 6  
-- Frontend: React 18.2.0  
-- Database: SQLite 3.42.0  
+- Backend: .NET 8.0.413  
+- Frontend: React 19.1.1  
+- Database: SQLite 3.43.2 
 
 ---
 
