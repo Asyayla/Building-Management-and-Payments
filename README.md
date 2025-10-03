@@ -5,8 +5,6 @@ A full-stack building management and payments system. Users can easily track and
 ![.NET](https://img.shields.io/badge/.NET-6.0-blue)
 ![React](https://img.shields.io/badge/React-18.2.0-blue)
 ![SQLite](https://img.shields.io/badge/SQLite-3.42.0-orange)
-![License](https://img.shields.io/github/license/Asyayla/building-management-and-payments)
-![Stars](https://img.shields.io/github/stars/Asyayla/building-management-and-payments?style=social)
 
 ---
 
