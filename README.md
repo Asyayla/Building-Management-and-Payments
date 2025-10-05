@@ -95,7 +95,7 @@ npm start
 
 ---
 
-## 🔮 Future Plans
+## Future Plans
 - Add user authentication and login system  
 - Dashboard and statistics  
 - Mobile responsive design
