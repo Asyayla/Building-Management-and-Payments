@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import ApartmentsPage from "./pages/ApartmentsPage";
-import PaymentsPage from "./pages/PaymentsPage"; // ✅ PaymentsPage import edildi
+import PaymentsPage from "./pages/PaymentsPage"; 
 
 function App() {
   const [currentPage, setCurrentPage] = useState("apartments");
@@ -16,7 +16,7 @@ function App() {
         </button>
 
         <button
-          onClick={() => setCurrentPage("payments")} // ✅ Payments sayfasına geçiş
+          onClick={() => setCurrentPage("payments")} 
           className="px-4 py-2 rounded bg-green-400 hover:bg-green-500 transition-colors duration-300"
         >
           Payments
