@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using BuildingManagement.Models; // Payment modelimizi kullanabilmek için ekleyelim
+using BuildingManagement.Models; 
 
 namespace BuildingManagement.Models
 {
@@ -8,6 +8,6 @@ namespace BuildingManagement.Models
         public BuildingManagementContext(DbContextOptions options) : base(options) { }
 
         public DbSet<Apartment> Apartments { get; set; }
-        public DbSet<Payment> Payments { get; set; } // <- Payments tablosu eklendi
+        public DbSet<Payment> Payments { get; set; } 
     }
 }
