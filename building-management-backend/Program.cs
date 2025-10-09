@@ -38,7 +38,7 @@ public class Program
 
         builder.Services.AddHealthChecks();
 
-        // ✅ CORS policy: frontend port 3000
+        //  CORS policy: frontend port 3000
         builder.Services.AddCors(options =>
         {
             options.AddPolicy("AllowVite",
@@ -60,9 +60,8 @@ public class Program
             });
         }
 
-        // app.UseHttpsRedirection(); // ❌ Bu satırı kapattık, HTTP POST çalışsın
 
-        // ✅ CORS middleware
+        //  CORS middleware
         app.UseCors("AllowVite");
 
         app.UseAuthorization();
@@ -107,4 +106,5 @@ public class Program
         app.MapHealthChecks("/health");
         app.Run("http://127.0.0.1:5287");
     }
+
 }
